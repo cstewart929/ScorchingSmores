@@ -1,2 +1,2 @@
 # ScorchingSmores
-CS462 Final Project, totally not an excuse to model my fursona and put him into a game :3
+Final Project for CS462, made with Blender and Unity!
